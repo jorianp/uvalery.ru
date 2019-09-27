@@ -1,0 +1,30 @@
+.pagination__number {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    cursor: pointer;
+
+    color: #999AA8;
+}
+
+.pagination__number:hover {
+    color: #72B62B;
+}
+
+.checked {
+    width: 30px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #72B62B;
+    border-radius: 6px;
+    color: #ffffff;
+}
+
+.checked:hover {
+    color: #ffffff;
+}

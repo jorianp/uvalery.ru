@@ -1,0 +1,13 @@
+.pagination__arrow-right {
+    width: 30px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    outline: none;
+
+    background: #FFFFFF;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    border: none;
+}

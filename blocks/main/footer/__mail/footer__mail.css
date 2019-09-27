@@ -1,0 +1,16 @@
+.footer__mail {
+    font-family: Geometria;
+    font-size: 16px;
+    line-height: 120%;
+    padding-right: 120px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.footer__mail a {
+    text-decoration: underline;
+    color: #FFFFFF;
+    cursor: pointer;
+}

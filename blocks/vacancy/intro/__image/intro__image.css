@@ -1,0 +1,6 @@
+.intro__image {
+    position: absolute;
+    right: 102px;
+    top: 124px;
+    z-index: -1;
+}

@@ -1,0 +1,7 @@
+.header__links {
+    width: 496px;
+    padding-left: 14px;
+
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,12 @@
+@import url('./__button/contacts__button.css');
+@import url('./__heading/contacts__heading.css');
+@import url('./__link-heading/contacts__link-heading.css');
+@import url('./__link/contacts__link.css');
+@import url('./__links/contacts__links.css');
+
+.summary__contacts {
+    width: 262px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 127px;
+}

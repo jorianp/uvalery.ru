@@ -1,0 +1,7 @@
+.footer__icon svg {
+    fill: #EBFFBF;
+}
+
+.footer__icon svg:hover {
+    fill: #F1EA68;
+}

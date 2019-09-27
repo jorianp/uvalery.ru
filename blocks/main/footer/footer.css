@@ -1,0 +1,10 @@
+@import url('./__content/footer__content.css');
+@import url('./__dev/footer__dev.css');
+@import url('./__link/footer__link.css');
+@import url('./__links/footer__links.css');
+@import url('./__mail/footer__mail.css');
+
+.footer {
+    width: 1182px;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+.main__skills {
+    display: flex;
+    flex-direction: column;
+    padding-top: 16px;
+}
+
+.main__skills .main__heading {
+    padding-top: 38px;
+}

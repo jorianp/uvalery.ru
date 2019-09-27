@@ -1,0 +1,14 @@
+.footer__link {
+    font-family: Geometria;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer__link:hover {
+    color: #F1EA68;
+    font-weight: bold;
+}

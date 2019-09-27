@@ -1,0 +1,12 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts.css');
+@import url('../blocks/vacancy/actual/actual.css');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/vacancy/intro/intro.css');
+@import url('../blocks/vacancy/vacancy/vacancy-page.css');
+
+.page {
+    width: 100%;
+    margin: 0 auto;
+}

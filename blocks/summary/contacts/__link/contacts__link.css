@@ -1,0 +1,11 @@
+.contacts__link {
+    font-family: Geometria;
+    font-size: 14px;
+    line-height: 120%;
+    margin: 0;
+    margin-left: 45px;
+    margin-top: 12px;
+    margin-bottom: 21px;
+
+    color: rgba(114, 182, 43, 0.1);
+}

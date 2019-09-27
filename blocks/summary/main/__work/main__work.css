@@ -1,0 +1,13 @@
+.work__text {
+    font-family: Geometria;
+    font-size: 14px;
+    line-height: 120%;
+    margin: 0;
+    padding-left: 8px;
+
+    color: #666666;
+}
+
+.main__work .main__heading {
+    padding-top: 49px;
+}

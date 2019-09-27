@@ -1,0 +1,20 @@
+.about__work-heading {
+    font-family: Geometria;
+    font-size: 14px;
+    line-height: 120%;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 12px;
+
+    color: #000000;
+}
+
+.about__work-heading span {
+    font-family: Geometria;
+    font-size: 14px;
+    line-height: 120%;
+    padding-left: 8px;
+    font-weight: 100;
+
+    color: #A4A4A4;
+}

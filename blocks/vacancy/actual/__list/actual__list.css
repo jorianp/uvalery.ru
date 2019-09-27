@@ -1,0 +1,7 @@
+.actual__list {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+
+    padding-top: 31px;
+}

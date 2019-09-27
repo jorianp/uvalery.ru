@@ -1,0 +1,11 @@
+.header__logo {
+    width: 81px;
+    height: 35px;
+    padding-top: 5px;
+    padding-left: 20px;
+    fill: #ffffff;
+}
+
+.header__logo:hover {
+    fill: #F1EA68;
+}

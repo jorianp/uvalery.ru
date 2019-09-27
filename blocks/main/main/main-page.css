@@ -1,0 +1,12 @@
+@import url('./__button/main__button.css');
+@import url('./__buttons/main__buttons.css');
+@import url('./__content/main__content.css');
+@import url('./__image/main__image.css');
+@import url('./__info/main__info.css');
+@import url('./__text/main__text.css');
+@import url('./__subtext/main__subtext.css');
+
+.main {
+    width: 1182px;
+    margin: auto;
+}

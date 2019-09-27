@@ -1,0 +1,22 @@
+.header__sign-in {
+    width: 147px;
+    border-radius: 60px;
+
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 20px;
+
+    text-align: center;
+
+    background: #5A8B3A;
+    border: 2px solid #7DB35B;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+}
+
+.header__sign-in:hover {
+    background: #F1EA68;
+    color: #5B8C3A;
+}

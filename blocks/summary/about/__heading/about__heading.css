@@ -1,0 +1,10 @@
+.about__heading {
+    font-family: Geometria;
+    font-size: 22px;
+    line-height: 120%;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 32px;
+
+    color: #000000;
+}

@@ -1,0 +1,25 @@
+@import url('./__about/vacancy__about.css');
+@import url('./__foot/vacancy__foot.css');
+@import url('./__footer/vacancy__footer.css');
+@import url('./__footing/vacancy__footing.css');
+@import url('./__head/vacancy__head.css');
+@import url('./__heading/vacancy__heading.css');
+@import url('./__image/vacancy__image.css');
+@import url('./__info/vacancy__info.css');
+@import url('./__main/vacancy__main.css');
+@import url('./__own-skill/vacancy__own-skill.css');
+@import url('./__own-skills/vacancy__own-skills.css');
+@import url('./__post/vacancy__post.css');
+@import url('./__salary/vacancy__salary.css');
+@import url('./__skill/vacancy__skill.css');
+@import url('./__skills/vacancy__skills.css');
+@import url('./__sub/vacancy__sub.css');
+
+.vacancy {
+    width: 854px;
+    display: flex;
+
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.04);
+    border-radius: 20px;
+}

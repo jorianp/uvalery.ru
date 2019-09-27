@@ -1,0 +1,16 @@
+@import url('./__icon/footer__icon.css');
+@import url('./__icons/footer__icons.css');
+@import url('./__link/footer__link.css');
+@import url('./__links/footer__links.css');
+@import url('./__main/footer__main.css');
+@import url('./__sub/footer__sub.css');
+@import url('./__text/footer__text.css');
+
+.footer {
+    width: 1440px;
+    height: 246px;
+    margin: auto;
+
+    background: linear-gradient(90deg, #719D44 0%, #57853C 100%);
+    box-shadow: 0px 20px 24px rgba(113, 181, 41, 0.26);
+}

@@ -1,0 +1,18 @@
+.vacancy__own-skill {
+    border: 1px solid #CEECAF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 0;
+
+    font-family: Geometria;
+    font-size: 14px;
+    line-height: 120%;
+    font-weight: 100;
+
+    text-align: center;
+
+    color: #72B62B;
+
+    padding: 0 7px;
+    margin-left: 10px;
+}

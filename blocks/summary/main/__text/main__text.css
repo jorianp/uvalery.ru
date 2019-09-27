@@ -1,0 +1,10 @@
+.main__text {
+    font-family: Geometria;
+    font-size: 16px;
+    line-height: 110%;
+    margin: 0;
+    list-style: none;
+    padding-top: 6px;
+
+    color: #000000;
+}

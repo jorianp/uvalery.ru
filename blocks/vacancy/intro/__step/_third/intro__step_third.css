@@ -1,0 +1,13 @@
+.intro__step_third {
+    width: 227px;
+}
+
+.intro__step_third::before {
+    content: '3';
+    font-family: Geometria;
+    font-size: 58px;
+    line-height: 120%;
+    font-weight: bold;
+
+    color: #F1EA68;
+}

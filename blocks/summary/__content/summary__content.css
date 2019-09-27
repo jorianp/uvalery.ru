@@ -1,0 +1,8 @@
+.summary__content {
+    width: 1144px;
+    height: 1020px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 72px;
+}

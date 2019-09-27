@@ -1,0 +1,8 @@
+.main__work-time {
+    display: flex;
+    padding-top: 16px;
+}
+
+.work-time__second {
+    padding-left: 15px;
+}

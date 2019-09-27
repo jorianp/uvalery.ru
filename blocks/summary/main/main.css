@@ -1,0 +1,21 @@
+@import url('./__avatar/main__avatar.css');
+@import url('./__heading/main__heading.css');
+@import url('./__info/main__info.css');
+@import url('./__interests/main__interests.css');
+@import url('./__me/main__me.css');
+@import url('./__more-info/main__more-info.css');
+@import url('./__motivation/main__motivation.css');
+@import url('./__skill-block/main__skill-block.css');
+@import url('./__skills/main__skills.css');
+@import url('./__text/main__text.css');
+@import url('./__work/main__work.css');
+@import url('./__work-time/main__work-time.css');
+@import url('./__skill/main__skill.css');
+@import url('./__skil/main__skil.css');
+
+.summary__main {
+    width: 264px;
+    height: 850px;
+    display: flex;
+    flex-direction: column;
+}

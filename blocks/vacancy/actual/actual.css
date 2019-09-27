@@ -1,0 +1,21 @@
+@import url('./__checkbox/actual__checkbox.css');
+@import url('./__content/actual__content.css');
+@import url('./__form/actual__form.css');
+@import url('./__heading/actual__heading.css');
+@import url('./__input-salary/actual__input-salary.css');
+@import url('./__input/actual__input.css');
+@import url('./__list/actual__list.css');
+@import url('./__pagination/actual__pagination.css');
+@import url('./__select-expirience/actual__select-expirience.css');
+@import url('./__select-graph/actual__select-graph.css');
+@import url('./__select-skills/actual__select-skills.css');
+@import url('./__select-town/actual__select-town.css');
+@import url('./__check/actual__check.css');
+@import url('./__span/actual__span.css');
+
+.actual {
+    width: 1440px;
+    margin: auto;
+    background-color: #FBFBFB;
+    padding-bottom: 74px;
+}

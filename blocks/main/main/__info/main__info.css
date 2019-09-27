@@ -1,0 +1,8 @@
+.main__info {
+    height: 388px;
+    margin-top: 142px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

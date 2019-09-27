@@ -1,0 +1,17 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts.css');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/summary/__content/summary__content.css');
+@import url('../blocks/summary/about/about.css');
+@import url('../blocks/summary/main/main.css');
+@import url('../blocks/summary/contacts/contacts.css');
+
+.page {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.page .header {
+    margin: auto;
+}

@@ -1,0 +1,6 @@
+.vacancy__footer {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 23px;
+    padding-top: 20px;
+}

@@ -1,0 +1,10 @@
+.header__nav {
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+
+    background: linear-gradient(90deg, #72B62B 0%, #57853C 100%);
+    box-shadow: 0px 20px 24px rgba(113, 181, 41, 0.26);
+    border-radius: 60px;
+}

@@ -1,0 +1,8 @@
+.footer__sub {
+    width: 1146px;
+    margin: auto;
+
+    display: flex;
+    justify-content: space-between;
+    padding-top: 83px;
+}

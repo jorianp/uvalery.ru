@@ -1,0 +1,46 @@
+.intro__button {
+    border-radius: 60px;
+
+    font-family: Geometria;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: bold;
+
+    text-align: center;
+
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.intro__button_first {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 254px;
+    background: #72B62B;
+    box-shadow: 0px 14px 24px rgba(113, 181, 41, 0.15);
+    color: #ffffff;
+}
+
+.intro__button_second {
+    width: 194px;
+    background: #F5FFEB;
+    box-shadow: 0px 14px 24px rgba(113, 181, 41, 0.15);
+    color: #72B62B;
+}
+
+.file {
+    padding-left: 14px;
+    fill: #ffffff;
+}
+
+.intro__button:hover {
+    background: #F1EA68;
+    color: #5B8C3A;
+}
+
+.intro__button:hover .file {
+    fill: #5B8C3A
+}

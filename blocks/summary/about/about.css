@@ -1,0 +1,17 @@
+@import url('./__header/about__header.css');
+@import url('./__heading/about__heading.css');
+@import url('./__main/about__main.css');
+@import url('./__strengths/about__strengths.css');
+@import url('./__text/about__text.css');
+@import url('./__work-heading/about__work-heading.css');
+@import url('./__work-text/about__work-text.css');
+@import url('./__work/about__work.css');
+@import url('./__works/about__works.css');
+
+.summary__about {
+    width: 456px;
+    height: 689px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 34px;
+}

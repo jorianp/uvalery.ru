@@ -1,0 +1,29 @@
+@import url('./_first/intro__step_first.css');
+@import url('./_second/intro__step_second.css');
+@import url('./_third/intro__step_third.css');
+
+.intro__step {
+    display: flex;
+
+    font-family: Geometria;
+    font-size: 14px;
+    line-height: 120%;
+
+    color: #9D9D9D;
+}
+
+.two {
+    width: 157px;
+    height: 39px;
+    padding-top: 20px;
+}
+
+.hours {
+    width: 145px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 14px;
+    line-height: 100%;
+
+    color: #72B62B;
+}

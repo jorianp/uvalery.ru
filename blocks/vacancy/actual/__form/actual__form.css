@@ -1,0 +1,9 @@
+.actual__form {
+    width: 264px;
+    height: 514px;
+    padding-top: 31px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

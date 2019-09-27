@@ -1,0 +1,15 @@
+.header__link {
+    font-family: Geometria;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 100;
+    text-decoration: none;
+    margin: 2px;
+
+    color: #FFFFFF;
+}
+
+.header__link:hover {
+    color: #F1EA68;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.intro__steps {
+    width: 813px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 55px;
+}
+
+.intro__steps p {
+    padding-left: 10px;
+    margin: 0;
+    align-self: center;
+}

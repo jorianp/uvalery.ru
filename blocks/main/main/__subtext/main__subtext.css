@@ -1,0 +1,12 @@
+.main__subtext {
+    width: 489px;
+
+    font-family: Geometria;
+    font-size: 22px;
+    line-height: 120%;
+    font-weight: 100;
+    margin: 0;
+    padding-top: 36px;
+
+    color: #FFFFFF;
+}

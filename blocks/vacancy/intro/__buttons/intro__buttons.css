@@ -1,0 +1,7 @@
+.intro__buttons {
+    width: 478px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 32px;
+}

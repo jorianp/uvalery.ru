@@ -1,0 +1,7 @@
+.main__buttons {
+    width: 560px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 59px;
+}

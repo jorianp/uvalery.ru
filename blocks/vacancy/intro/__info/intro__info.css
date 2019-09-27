@@ -1,0 +1,8 @@
+.intro__info {
+    height: 388px;
+    margin-top: 72px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

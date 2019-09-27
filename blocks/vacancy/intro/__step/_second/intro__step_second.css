@@ -1,0 +1,29 @@
+.intro__step_second {
+    width: 247px;
+}
+
+.second__flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.intro__step_second::before {
+    content: '2';
+    font-family: Geometria;
+    font-size: 58px;
+    line-height: 120%;
+    font-weight: bold;
+
+    color: #F1EA68;
+}
+
+.intro__step_second::after {
+    height: 24px;
+    content: '\27F6';
+    font-size: 20px;
+    font-weight: 100;
+    align-self: center;
+    color: #72B62B;
+    padding-left: 15px;
+}

@@ -1,0 +1,14 @@
+@import url('./__arrow-left/pagination__arrow-left.css');
+@import url('./__arrow-right/pagination__arrow-right.css');
+@import url('./__number/pagination__number.css');
+
+.actual__pagination {
+    width: 282px;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: auto;
+    margin-top: 62px;
+}
