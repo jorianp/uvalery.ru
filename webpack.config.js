@@ -33,7 +33,7 @@ module.exports = {
             },
             {
                 test: /\.(eot|ttf|woff|woff2)$/,
-                loader: 'file-loader?name=../vendor/fonts/[name].[ext]'
+                loader: 'file-loader?name=./vendor/fonts/[name].[ext]'
             }
         ]
     },
@@ -51,13 +51,13 @@ module.exports = {
             inject: false,
             hash: true,
             template: './src/summary.html',
-            filename: 'pages/summary.html'
+            filename: 'summary.html'
           }),
         new HtmlWebpackPlugin({
             inject: false,
             hash: true,
             template: './src/vacancy.html',
-            filename: 'pages/vacancy.html'
+            filename: 'vacancy.html'
           }),
         new WebpackMd5Hash()
     ]
