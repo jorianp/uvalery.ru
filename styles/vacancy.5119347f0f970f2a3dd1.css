@@ -351,33 +351,33 @@
 @font-face {
   font-family: 'Geometria';
   font-style:  normal;
-  src: url(../vendor/fonts/Geometria.woff) format("woff");
+  src: url(./vendor/Geometria.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Geometria';
   font-style:  normal;
   font-weight: 100;
-  src: url(../vendor/fonts/Geometria-Light.woff) format("woff");
+  src: url(./vendor/Geometria-Light.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Geometria';
   font-style:  normal;
   font-weight: bold;
-  src: url(../vendor/fonts/Geometria-Bold.woff) format("woff");
+  src: url(./vendor/Geometria-Bold.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Roboto';
   font-style:  normal;
-  src: url(../vendor/fonts/Roboto-Regular.woff) format("woff");
+  src: url(./vendor/Roboto-Regular.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Montserrat';
   font-style:  normal;
-  src: url(../vendor/fonts/Montserrat-Regular.woff) format("woff");
+  src: url(./vendor/Montserrat-Regular.woff) format("woff");
 }
 .actual__checkbox {
     fill: #ffffff;
