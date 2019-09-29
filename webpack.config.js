@@ -33,13 +33,13 @@ module.exports = {
             },
             {
                 test: /\.(eot|ttf|woff|woff2)$/,
-                loader: 'file-loader?name=../vendor/fonts/[name].[ext]'
+                loader: 'file-loader?name=./vendor/fonts/[name].[ext]'
             }
         ]
     },
     plugins: [ 
         new MiniCssExtractPlugin({
-            filename: 'styles/[name].[contenthash].css'
+            filename: '[name].[contenthash].css'
         }),
         new HtmlWebpackPlugin({
             inject: false,
